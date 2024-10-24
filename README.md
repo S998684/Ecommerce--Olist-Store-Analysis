@@ -6,4 +6,4 @@ The Olist Store Data Analysis project focuses on examining e-commerce transactio
 
 ## Dashboard
 
-![dashboard](image_url)
+![dashboard](dashboard.png)
