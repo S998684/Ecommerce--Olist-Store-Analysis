@@ -9,7 +9,6 @@ The goal of this project is to help the Olist E-commerce platform analyze key cu
 
 ## Datasets 
 The dataset used for this project is the Olist Store dataset, which includes the following data files:
-![Datasets](Datasets.png)
 Orders: Details of customer orders, including timestamps, order status, and delivery dates.
 Payments: Payment information, including payment type, installment options, and payment values.
 Reviews: Customer reviews containing ratings, comments, and timestamps for feedback.
