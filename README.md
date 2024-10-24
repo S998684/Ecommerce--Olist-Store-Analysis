@@ -1,23 +1,10 @@
 # Ecommerce--Olist-Store-Analysis
-## About This Project
+## About this Project
 
 The Olist Store Analysis Project focuses on uncovering valuable insights from an e-commerce dataset, using tools like Power BI, SQL, and Excel for analysis and visualization. The project examines various aspects of customer behavior, payment patterns, and delivery efficiency, helping to identify trends and improve decision-making. By analyzing this data, the goal is to enhance business operations and customer satisfaction for the Olist platform.
 
 ## Problem Statement
 The goal of this project is to help the Olist E-commerce platform analyze key customer and order-related metrics to improve operational efficiency, customer satisfaction, and profitability.
-
-
-## Datasets 
-The dataset used for this project is the Olist Store dataset, which includes the following data files:
-**Orders**: Details of customer orders, including timestamps, order status, and delivery dates.
-Payments: Payment information, including payment type, installment options, and payment values.
-Reviews: Customer reviews containing ratings, comments, and timestamps for feedback.
-Order Items: Product details associated with each order, including product IDs, seller information, prices, and freight values.
-Products: Information about products, including product categories and descriptions.
-Customers: Customer details such as unique IDs, locations, and demographic information.
-Sellers: Data related to sellers, including IDs and location details.
-Geolocation: Geographical data for mapping customer and seller locations.
-
 
 
 ## Datasets
@@ -32,14 +19,11 @@ The dataset used for this project is the Olist Store dataset, which includes the
 - **geolocation**: Geographical data for mapping customer and seller locations.
 
 
-
-
-
- 
 ## Tools and Technologies
 - **Power BI**: For building interactive visualizations and dashboards.
 - **SQL**: For data querying, joining datasets, and analysis.
 - **Excel**: For cleaning data and pivot table analysis.
+- 
 
   ## Steps Followed
 1. **Data Cleaning**: Removed duplicates, handled missing values, and merged datasets.
