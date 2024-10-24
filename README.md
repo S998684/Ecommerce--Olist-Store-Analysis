@@ -1,13 +1,13 @@
 # Ecommerce--Olist-Store-Analysis
-## Overview
+## About This Project
 
 The Olist Store Analysis Project focuses on uncovering valuable insights from an e-commerce dataset, using tools like Power BI, SQL, and Excel for analysis and visualization. The project examines various aspects of customer behavior, payment patterns, and delivery efficiency, helping to identify trends and improve decision-making. By analyzing this data, the goal is to enhance business operations and customer satisfaction for the Olist platform.
 
-## Problem-Statement
+## Problem Statement
+The goal of this project is to help the Olist E-commerce platform analyze key customer and order-related metrics to improve operational efficiency, customer satisfaction, and profitability.
 
-The Olist Store Data Analysis project focuses on examining e-commerce transactions from the Olist platform, a popular online marketplace. By analyzing a rich dataset of customer orders, we aim to gain valuable insights into purchasing behaviors, payment preferences and delivery times.
 
-## Datasets
+## Datasets Used
 The dataset used for this project is the Olist Store dataset, which includes the following data files:
 Orders: Details of customer orders, including timestamps, order status, and delivery dates.
 Payments: Payment information, including payment type, installment options, and payment values.
