@@ -7,7 +7,13 @@ The Olist Store Analysis Project focuses on uncovering valuable insights from an
 
 The Olist Store Data Analysis project focuses on examining e-commerce transactions from the Olist platform, a popular online marketplace. By analyzing a rich dataset of customer orders, we aim to gain valuable insights into purchasing behaviors, payment preferences and delivery times.
 
-## Datasets Used
+## Datasets
+The dataset used for this project is the Olist Store dataset, which includes the following data files:
+- **Orders**: Details of customer orders including timestamps and status.
+- **Payments**: Payment information including payment type and value.
+- **Reviews**: Customer reviews, ratings, and comments.
+- **Order Items**: Product details and freight values.
+
 
 
  
