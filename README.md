@@ -20,6 +20,16 @@ Geolocation: Geographical data for mapping customer and seller locations.
 
 
 
+## Datasets
+The dataset used for this project is the Olist Store dataset, which includes the following data files:
+- **Orders**: Details of customer orders including timestamps and status.
+- **Payments**: Payment information including payment type and value.
+- **Reviews**: Customer reviews, ratings, and comments.
+- **Order Items**: Product details and freight values.
+
+
+
+
 
  
 ## Tools and Technologies
