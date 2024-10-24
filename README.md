@@ -47,3 +47,9 @@ The dataset used for this project is the Olist Store dataset, which includes the
 ## Conclusion
 This analysis highlights the key performance metrics of the Olist Store's operations, providing valuable insights into customer preferences, payment methods, and delivery performance. By focusing on specific KPIs like customer satisfaction and shipping efficiency, Olist can make informed decisions to enhance its service.
 
+## How to Run the Project
+- Clone the repository.
+- Open the SQL files in any SQL editor to view queries.
+- Open the Power BI file (`dashboard.pbix`) to interact with the dashboard.
+
+
