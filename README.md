@@ -7,8 +7,9 @@ The Olist Store Analysis Project focuses on uncovering valuable insights from an
 The goal of this project is to help the Olist E-commerce platform analyze key customer and order-related metrics to improve operational efficiency, customer satisfaction, and profitability.
 
 
-## Datasets Used
+## Datasets 
 The dataset used for this project is the Olist Store dataset, which includes the following data files:
+![Datasets](Datasets.png)
 Orders: Details of customer orders, including timestamps, order status, and delivery dates.
 Payments: Payment information, including payment type, installment options, and payment values.
 Reviews: Customer reviews containing ratings, comments, and timestamps for feedback.
@@ -17,6 +18,7 @@ Products: Information about products, including product categories and descripti
 Customers: Customer details such as unique IDs, locations, and demographic information.
 Sellers: Data related to sellers, including IDs and location details.
 Geolocation: Geographical data for mapping customer and seller locations.
+
 
 
 
